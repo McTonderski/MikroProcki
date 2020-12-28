@@ -33,6 +33,6 @@ Desired outcome of this project would be a system which lets user remotely turn 
 
 - Microcontrollers Blackpill STM32F411CEU6
 - ESP8266 WiFi modules
-- C in the Keil uVision5 environment
-
+- C in the STM32 Cube Programmer environment
+- Arduino STM32 Cores by STMicroelectronics
 
