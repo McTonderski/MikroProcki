@@ -18,9 +18,9 @@ The purpose of this project is to reduce power consumption and enable remote con
 ### **Success criteria** 
 
 
-Writing a program for connecting mesh devices to each other
-Assembling Black Pill microcontrollers to wifi modules and plugs.
-Connecting a smartphone to mesh.
+- Writing a program for connecting mesh devices to each other
+- Assembling Black Pill microcontrollers to wifi modules and plugs.
+- Connecting a smartphone to mesh.
 
 
 ----
