@@ -1,7 +1,8 @@
-## **Smart House Mesh Network**  
+## Metronome  
 
+Due to damage to one of the parts required to create the project we needed to modify our topic.
 
-Smart home system for controlling electrical devices via mobile device.
+Metronome is a device for accurately conveying the tempo of a piece of music.
 
 ----
 ### **Team members** 
@@ -12,28 +13,5 @@ Smart home system for controlling electrical devices via mobile device.
 ----
 ### **Purpose** 
 
-The purpose of this project is to reduce power consumption and enable remote control of devices in the user's household.
-
-----
-### **Success criteria** 
-
-
-- Writing a program for connecting mesh devices to each other
-- Assembling Black Pill microcontrollers to wifi modules and plugs.
-- Connecting a smartphone to mesh.
-
-
-----
-### **Desired Result** 
-
-Desired outcome of this project would be a system which lets user remotely turn on and off electrical devices e. g. lights and checking tempreture in the room with a temperature sensor.
-
-----
-### **Technical specification** 
-
-- Microcontroller KL05Z 
-- Two microcontrollers Blackpill STM32F411CEU6
-- ESP8266 WiFi modules
-- C in the STM32 Cube Programmer environment
-- Arduino STM32 Cores by STMicroelectronics
+The purpose of this project is to produce the device that can be used during musical exercises and composing.
 
