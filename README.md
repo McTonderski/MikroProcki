@@ -20,15 +20,15 @@ The purpose of this project is to produce the device that can be used during mus
  ----
  ### **Success criteria** 
 
-
 Writing a program which will by recognizing the position of the device, distinguishing between single and double tapping, tapping the uploaded rhythm.
-Additionally playing programmed rhythm e.g. from Rubik's repertoire while turning the board over which will also reset previously set pace.
+
 
  ----
  ### **Desired Result** 
 
- Desired outcome of this project would be a device which lets user set the pace of the tapping to help keeping the tempo while playing the instruments or singing.
-Addit
+Desired outcome of this project would be a device which lets user set the pace of the tapping to help keeping the tempo while playing the instruments or singing.
+Additionally playing programmed rhythm e.g. from Rubik's repertoire while turning the board over which will also reset previously set pace.
+
 
  ----
  ### **Technical specification** 
