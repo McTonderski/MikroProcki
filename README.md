@@ -36,9 +36,10 @@ Additionally playing programmed rhythm e.g. from Rubik's repertoire while turnin
  * C in the STM32Cube env 
  * MAKEFILE toolchain
  * Board:
-  * STM32F411RE
-  * LCD1602 
-  * ADXL345 -> 3 axis accelerometer 
+   * STM32F411RE
+ * Components:
+   * LCD1602 
+   * ADXL345 -> 3 axis accelerometer 
  * Libs used:
   * HAL lib
   
