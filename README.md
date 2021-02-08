@@ -32,5 +32,24 @@ Additionally playing programmed rhythm e.g. from Rubik's repertoire while turnin
 
  ----
  ### **Technical specification** 
+ * Code is present at master branch
+ * C in the STM32Cube env 
+ * MAKEFILE toolchain
+ * Board:
+  * STM32F411RE
+  * LCD1602 
+  * ADXL345 -> 3 axis accelerometer 
+ * Libs used:
+  * HAL lib
+  
+ ---
+ ### **Functional description** 
+ 
+Acceleration sensor turned upside down will cause board to play preprogrammed "Rubik's" rythm. 
+When turned back up, board is armed, that means it can record taps, and play them back.
+Board after detecting time delay between taps, act as metronome with recorded tempo.
 
- - C in the Keil uVision5 environment
+In order to restart board and record different tempo user needs to turn board back wait for Rubik's rythm to play and turn board back up.
+
+
+
