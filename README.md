@@ -40,6 +40,7 @@ Additionally playing programmed rhythm e.g. from Rubik's repertoire while turnin
  * Components:
    * LCD1602 
    * ADXL345 -> 3 axis accelerometer 
+   * Relay switch
  * Libs used:
   * HAL lib
   
